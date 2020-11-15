@@ -2,7 +2,7 @@
 ## Introduce
 <p>
   
-<img src="./images/profil.jpg" width="200" height="100">
+<img src="./images/profil.jpg" width="100" height="100">
 
 </p>
 
@@ -18,7 +18,7 @@
 <p>
   
 <img src="./images/java.png"  width="150" height="75">
-<img src="./images/c.png"  width="100" height="75">
+<img src="./images/c.png"  width="80" height="75">
 
 </p>
 </br>
