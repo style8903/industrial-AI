@@ -2,6 +2,6 @@
 <p>
   
 <img src="./image/AI.jpg" width="300" height="400">
-<img src="./image/AI_2.jpg" width="300" height="400">
+<img src="./image/AI_2.png" width="300" height="400">
 
 </p>
