@@ -19,6 +19,9 @@
   
 <img src="./images/java.png"  width="150" height="75">
 <img src="./images/c.png"  width="80" height="75">
+<img src="./images/python.png"  width="80" height="75">
+<img src="./images/android.jpg"  width="80" height="75">
+<img src="./images/c#.jpg"  width="80" height="75">
 
 </p>
 </br>
