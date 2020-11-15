@@ -33,7 +33,7 @@
 
 ### 프로그래밍 자료
 
-- `2020-10` [AI교육 고급과정](https://github.com/style8903/industrial-AI/tree/master/programming/기계학습): 영상처리 딥러닝
+- `2020-10` [AI교육 고급과정](https://github.com/style8903/industrial-AI/tree/master/programming/딥러닝): 영상처리 딥러닝
 
 
 
