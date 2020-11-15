@@ -2,7 +2,7 @@
 ## Introduce
 <p>
   
-<img src="./images/profil.jpg" >
+<img src="./images/profil.jpg" width="200" height="100">
 
 </p>
 
