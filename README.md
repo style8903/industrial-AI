@@ -15,9 +15,10 @@
 
 ## Development Language
 
-<p align="center">
+<p>
   
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
+<img src="./images/java.png"  width="300" height="150">
+<img src="./images/c.png"  width="300" height="150">
 
 </p>
 </br>
