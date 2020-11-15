@@ -1,15 +1,18 @@
-# **Industrial AI** 
+# **김성웅(KIM-SEONG-WOONG)** 
 
-## Introduction
+----------
+## Introduce
 
-2020년 8월 설립된 재직자 대상 계약학과입니다.
+1989. 03              출생
+2005 ~ 2008           청주 세광고등학교
+2008 ~ 2017           충남대학교 메카트로닉스 공학과
+2015 ~ 2017           이랜드 그룹 스파오(강남점 매니저)
+2018. 11              충북대학교 공동 훈련센터 IoT교육 이수
+2018. 12 ~ 현재       (주)한랩 미래기술연구소
+2020. 09 ~ 현재       충북대학교 산업인공지능학과 석사과정
 
-4차 산업혁명을 주도할 창의적 문제해결 능력을 갖춘 인공지능 관련 전문가를 육성하는 것을 목표로 하고 있습니다.
-
-## Contacts
-
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
+-------------------------
+- 이메일 : [style8903@naver.com](mailto:style8903@naver.com)
 
 ## Educational Course
 
