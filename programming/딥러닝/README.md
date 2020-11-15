@@ -1,6 +1,6 @@
 ## AI 딥러닝 영상처리
 <p>
   
-<img src="./images/AI.jpg">
+<img src="./image/AI.jpg">
 
 </p>
