@@ -17,8 +17,8 @@
 
 <p>
   
-<img src="./images/java.png"  width="300" height="150">
-<img src="./images/c.png"  width="300" height="150">
+<img src="./images/java.png"  width="150" height="75">
+<img src="./images/c.png"  width="100" height="75">
 
 </p>
 </br>
