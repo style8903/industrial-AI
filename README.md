@@ -1,6 +1,7 @@
 # **김성웅(KIM-SEONG-WOONG)**
-
-----------
+</br></br>
+- 이메일 : [style8903@naver.com](mailto:style8903@naver.com)
+</br></br>
 ## Introduce
 </br>
 1989. 03              출생
@@ -20,7 +21,7 @@
 </br></br></br>
 
 
-- 이메일 : [style8903@naver.com](mailto:style8903@naver.com)
+
 
 -------------------------
 
