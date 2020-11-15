@@ -1,7 +1,7 @@
 # **김성웅(KIM-SEONG-WOONG)**
-</br></br></br></br>
+</br></br>
 ## Introduce
-
+<img src="./images/profil.jpg"  width="300" height="150">
 * (주)한랩 미래기술연구소 연구원
 * 충북대학교 산업인공지능학과 석사과정
 - 이메일 : [style8903@naver.com](mailto:style8903@naver.com)
