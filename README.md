@@ -2,7 +2,7 @@
 ## Introduce
 <p>
   
-<img src="./images/profil.jpg" width="190" height="200">
+<img src="./images/profil.jpg" width="170" height="200">
 
 </p>
 
@@ -21,7 +21,7 @@
 <img src="./images/c.png"  width="80" height="75">
 <img src="./images/python.png"  width="100" height="90">
 <img src="./images/android.jpg"  width="200" height="90">
-<img src="./images/c#.jpg"  width="80" height="75">
+<img src="./images/cc.jpg"  width="80" height="75">
 
 </p>
 </br>
