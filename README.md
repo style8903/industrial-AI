@@ -21,7 +21,7 @@
 <img src="./images/c.png"  width="80" height="75">
 <img src="./images/python.png"  width="100" height="90">
 <img src="./images/android.jpg"  width="200" height="90">
-<img src="./images/cc.jpg"  width="80" height="75">
+<img src="./images/cc.jpg"  width="80" height="90">
 
 </p>
 </br>
