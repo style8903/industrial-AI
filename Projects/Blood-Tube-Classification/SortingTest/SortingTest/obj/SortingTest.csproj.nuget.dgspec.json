@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj": {}
+  },
+  "projects": {
+    "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj",
+        "projectName": "SortingTest",
+        "projectPath": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Microsoft.ML.OnnxRuntime": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Microsoft.ServiceFabric": {
+              "target": "Package",
+              "version": "[8.2.1571, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.3.20210817, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.5.3.20210817, )"
+            },
+            "OpenCvSharp4.WpfExtensions": {
+              "target": "Package",
+              "version": "[4.5.3.20210817, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.5.3.20210817, )"
+            },
+            "WindowsAPICodePack": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
