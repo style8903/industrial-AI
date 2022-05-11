@@ -23,8 +23,8 @@
 
 ## 프로그래밍 자료 🖥
 
-- `2022-03` [딥러닝 연습](https://github.com/style8903/industrial-AI/tree/master/industrial-AI/Projects/Deeplearning-Practice): 딥러닝 이해를 위한 개인 실습.
-- `2022-06` [채혈튜브 분류 프로젝트](https://github.com/style8903/industrial-AI/tree/master/industrial-AI/Projects/Blood-Tube-Classification): 병원에서 사용하는 채혈 튜브 이미지 데이터를 이용하여 Classification 프로젝트를 진행.
+- `2022-03` [딥러닝 연습](https://github.com/style8903/industrial-AI/tree/master/Projects/Deeplearning-Practice): 딥러닝 이해를 위한 개인 실습.
+- `2022-06` [채혈튜브 분류 프로젝트](https://github.com/style8903/industrial-AI/tree/master/Projects/Blood-Tube-Classification): 병원에서 사용하는 채혈 튜브 이미지 데이터를 이용하여 Classification 프로젝트를 진행.
 
 
 
