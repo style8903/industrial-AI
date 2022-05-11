@@ -1,9 +1,10 @@
 # **🏫 충북대학교 산업인공지능학과(Industry A.I)**
 
 <p>
-<img src="./images/subject1.jpg">
+<img src="./images/subject1.JPG">
+<img src="./images/subject2.JPG">
 </p>
-
+[홈페이지 바로가기](https://indai.cbnu.ac.kr/)
 <br/>
 <br/>
 
