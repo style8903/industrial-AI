@@ -1,8 +1,8 @@
 # **어프렌티스 프로젝트 📖**
 
 <p>
-<img src="../images/apren1.JPG">
-<img src="../images/apren2.JPG">
+<img src="../../images/apren1.JPG">
+<img src="../../images/apren2.JPG">
 </p>
 <br/>
 <br/>
