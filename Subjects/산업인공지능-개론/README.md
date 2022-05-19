@@ -21,7 +21,7 @@
 
 ## 📂 과목 진행 내용 
 
-**- `MiniProject1` : [Durable Rules를 이용한 Tube 분류 알고리즘](../MiniProject_1)**
+**- `MiniProject1` : [Durable Rules를 이용한 Tube 분류 알고리즘](./MiniProject_1)**
 
 <p>
 <img src="../../images/gaeron_hw1.JPG">
@@ -29,7 +29,7 @@
 
 <br/>
 
-**- `MiniProject2` : [ResNet18을 이용한 Tube 이진 분류](../MiniProject_2)**
+**- `MiniProject2` : [ResNet18을 이용한 Tube 이진 분류](./MiniProject_2)**
 
 <p>
 <img src="../../images/gaeron_hw2.JPG">
@@ -37,7 +37,7 @@
 
 <br/>
 
-**- `FinalProject` : [선형 회귀 모델을 이용한 병원 방문객 예측](../FinalProject)**
+**- `FinalProject` : [선형 회귀 모델을 이용한 병원 방문객 예측](./FinalProject)**
 
 <p>
 <img src="../../images/gaeron_hw3.JPG">
