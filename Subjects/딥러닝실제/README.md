@@ -1,7 +1,7 @@
 # **딥러닝 실제 📖**
 
 <p>
-<img src="../../images/gaeron1.JPG">
+<img src="../../images/deep1.JPG">
 </p>
 <br/>
 <br/>
