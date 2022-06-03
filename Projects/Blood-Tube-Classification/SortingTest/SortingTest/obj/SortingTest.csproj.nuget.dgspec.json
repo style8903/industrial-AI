@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj": {}
+    "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\SortingTest.csproj": {}
   },
   "projects": {
-    "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj": {
+    "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\SortingTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj",
+        "projectUniqueName": "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\SortingTest.csproj",
         "projectName": "SortingTest",
-        "projectPath": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj",
+        "projectPath": "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\SortingTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\obj\\",
+        "outputPath": "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

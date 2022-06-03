@@ -81,10 +81,6 @@ namespace SortingTest
                     float y = x.Max();
                     max_idx = Array.IndexOf(x, y);
 
-                    if((max_idx == 3) && (x[7] > 1))
-                    {
-                        max_idx = 7;
-                    }
                 }
             }
             return max_idx;

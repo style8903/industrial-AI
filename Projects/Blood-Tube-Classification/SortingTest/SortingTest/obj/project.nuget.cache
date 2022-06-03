@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0YLVgVbAkiubpZsuEfAssaw+3KXRtwMI7eZBfk+S9fPuJAKZMlGTmZjOPNJYmI5OZiLHfbVVJC6IxgF4kkBCg==",
+  "dgSpecHash": "fk7e4K7kvXT9VHgfMC8w8ypv2GCYJN3ipjrud83DdbUxuwhryrYajlEw1e8Z8BYVWkiTpdzF8BJq5lW7gN+h3g==",
   "success": true,
-  "projectFilePath": "E:\\99. 개인자료\\10. 대학원\\Sorter Projet\\SortingTest\\SortingTest\\SortingTest.csproj",
+  "projectFilePath": "E:\\99. 개인자료\\10. 대학원\\github_data\\industrial-AI\\Projects\\Blood-Tube-Classification\\SortingTest\\SortingTest\\SortingTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.ml\\1.7.1\\microsoft.ml.1.7.1.nupkg.sha512",
